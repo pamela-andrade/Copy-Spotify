@@ -106,6 +106,15 @@ background: #7c26f8;
     padding-left: 80px;
 }
 
+.carousel-control-next, .carousel-control-prev {
+    width: 5%;
+}
+
+
+
+
+
+
 
 
 /* // Extra small devices (portrait phones, less than 576px) */
